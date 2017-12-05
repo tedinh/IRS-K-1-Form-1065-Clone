@@ -1,0 +1,154 @@
+.part2 {
+    display: flex;
+    flex-direction: row;
+}
+
+.left-column {
+    border-right: solid;
+    border-color: #e5e5e5;
+    border-width: .5px;
+    /* padding-right: 15em; */
+}
+
+.left-column2 {
+    padding-left: 1em;
+    margin-bottom: 1em;
+}
+
+/* section1 */
+
+.section1{
+    margin-top: 40px;
+    padding-bottom: 20px;
+    padding-right: 4em;
+    border-bottom: solid;
+    border-color: #e5e5e5;
+    border-width: .5px;
+}
+
+.section1-p{
+    margin-bottom: 1px;
+}
+
+.section1-input{
+    width: 20vw;
+    margin-bottom: 30px;
+}
+
+.section1-textarea {
+    width: 20vw;
+    height: 6em;
+}
+
+/* section2 */
+
+.section2 {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-bottom: solid;
+    border-color: #e5e5e5;
+    border-width: .5px;
+}
+
+.section3 {
+    padding-bottom: 20px;
+    border-bottom: solid;
+    border-color: #e5e5e5;
+    border-width: .5px;
+}
+
+.section4 {
+    padding-top: 10px;
+}
+
+.section4-input {
+    width: 20vw;
+    margin-bottom: 1em;
+}
+
+/* right-column */
+.first-half{
+    border-bottom: solid;
+    padding-top: 15px;
+    padding-left: 15px;
+    border-color: #e5e5e5;
+    border-width: .5px;
+}
+
+.table-container{
+    border-style: solid;
+    width: 70vw;
+    border-color: #e5e5e5;
+    border-width: .5px;
+    margin-bottom: 20px;
+}
+
+.table-container2{
+    width: 70vw;
+}
+
+.table-input2{
+    padding-left: 9em;
+}
+
+.table-input{
+    width: 25em;
+}
+
+/* second half */
+
+.second-half {
+    padding-top: 20px;
+    padding-left: 15px;
+
+}
+
+.table-input3 {
+    padding-left: 4.3em;
+}
+
+.part2-checkboxes{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    width: 70em;
+}
+
+.part2-input {
+    padding-left: 1em;
+}
+
+.part2-last-question {
+    margin-top: 2em;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 65em;
+}
+
+.yes-no-checkboxes{
+    width: 10em;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.footer2 {
+    margin-top: 1em;
+    padding-top: .5em;
+    border-top: solid;
+    border-color: #e5e5e5;
+    border-width: .5px;
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+.part2-buttons {
+    display: flex;
+    flex-direction: row;
+    width: 20vw;
+}
+
+.previous {
+    color: black;
+}

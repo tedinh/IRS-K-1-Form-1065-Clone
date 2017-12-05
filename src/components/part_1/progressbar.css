@@ -1,0 +1,33 @@
+.dot-group{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    border-bottom: solid;
+    border-color: #e5e5e5;
+    border-width: .5px;
+}
+.dot {
+    color: black;
+    height: 25px;
+    width: 25px;
+    background-color: #bbb;
+    border-radius: 50%;
+    display: inline-block;
+    padding-top: 3px;
+    padding-left: 8px; 
+    margin-left: 5px; 
+  }
+
+.dot1{
+    background-color: #2BBACD;
+}
+
+.dot-1{
+    color: #2BBACD;
+}
+
+.dot-black{
+    color: #000000;
+}
